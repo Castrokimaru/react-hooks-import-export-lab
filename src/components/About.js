@@ -9,3 +9,8 @@ function About() {
     </div>
   );
 }
+
+export default About;
+
+const image =
+  "https://content.codecademy.com/courses/React/react_photo-goose.jpg";
